@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey there, I'm Saad!
 
-<!--
-**iamsaad640/iamsaad640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a JavaScript wizard 🧙‍♂️ who loves crafting web applications. I've been conjuring up web magic for almost a year now, and I'm always excited to learn new spells (aka technologies) to make my projects even more awesome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Use
+
+- **Frontend:** ⚛️ ReactJS, 🌐 NextJS, 📜 JavaScript, 🟦 TypeScript, 🖥️ HTML, 🎨 CSS, 🌬️ TailwindCSS, 🧩 Chakra UI
+- **Backend:** 🚀 NodeJS, 🛠️ PrismaORM, 🖥️ ExpressJS, 🟦 TypeScript, 🛢️ Mongoose
+- **Databases:** 🍃 MongoDB, 🐬 MySQL, 🐘 PostgreSQL, 🔥Firebase
+- **API Documentation:** 📜 Swagger, 📜 Swagger UI
+- **Version Control:** 🗂️ Git, 🗂️ GitHub
+- **AI Libraries:** 🧠 Langchain, 🤖 OpenAI
+- **API Testing:** 🔍 Postman
+- **How Know:** 🐳 Docker, 📋 Jira, 🧪 Vitest, 🧪 Happy-dom
+
+## Contact Me
+
+Got a cool project? Need a coding buddy? Or just want to chat about the latest tech trends? Hit me up!
+
+📧 [Email](mailto:iamsaad640@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/saadsolves)
