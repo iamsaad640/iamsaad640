@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <img alt="Product engineer at Teczon. B2B software with AI systems at its core. TypeScript and Node, Python for the agent layer. Based in Lahore, UTC+5." src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1400&color=3EA3A6&center=true&vCenter=true&width=640&lines=Product+engineer+at+Teczon;B2B+software+with+AI+systems+at+its+core;TypeScript+and+Node%2C+Python+for+the+agent+layer;Based+in+Lahore+%28UTC%2B5%29">
+  <img alt="Product engineer at Teczon. B2B software with AI systems at its core. TypeScript and Node, Python for the agent layer." src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1400&color=3EA3A6&center=true&vCenter=true&width=640&lines=Product+engineer+at+Teczon;B2B+software+with+AI+systems+at+its+core;TypeScript+and+Node%2C+Python+for+the+agent+layer">
 </p>
 
 <p align="center">
