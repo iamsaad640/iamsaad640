@@ -36,18 +36,16 @@ The code for the work below lives in private company repositories.
   </tr>
 </table>
 
-<details open>
-<summary><b>How the lab agent fits together</b></summary>
-<br>
+#### How the lab agent fits together
 
 ```mermaid
-flowchart LR
+flowchart TB
     S(["Scientist in Slack or Teams"]) -- "instructions for the next experiment" --> P["Model plans the experiment"]
-    P --> A{"Person approves each hardware step"}
-    A -- approved --> H["Incubators, microscopes, cell analyzers"]
-    H --> T["Experiment tracking"]
-    T -- "pick up exactly where it stopped" --> S
+    P --> A{"Person approves<br/>each hardware step"}
+    A -- approved --> H["Incubators · microscopes · cell analyzers"]
     A -.-> L[("Audit trail of every change")]
+    H --> T["Experiment tracking"]
+    T -. "pick up exactly where it stopped" .-> S
 
     classDef teal fill:#1f6f8a,stroke:#48b1b8,color:#ffffff
     classDef soft fill:#3ea3a6,stroke:#7fc4bd,color:#ffffff
@@ -55,14 +53,12 @@ flowchart LR
     class P,A,T,L soft
 ```
 
-</details>
-
 ## 🧰 Stack
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,tailwind,py,fastapi,postgres,prisma,docker,gcp,aws,git&perline=16&theme=dark">
-    <img alt="TypeScript, JavaScript, Node.js, NestJS, Express, React, Next.js, Tailwind CSS, Python, FastAPI, PostgreSQL, Prisma, Docker, Google Cloud, AWS, Git" src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,tailwind,py,fastapi,postgres,prisma,docker,gcp,aws,git&perline=16&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cnestjs%2Cexpress%2Creact%2Cnextjs%2Ctailwind%2Cpy%2Cfastapi%2Cpostgres%2Cprisma%2Cdocker%2Cgcp%2Caws%2Cgit&perline=16&theme=dark">
+    <img alt="TypeScript, JavaScript, Node.js, NestJS, Express, React, Next.js, Tailwind CSS, Python, FastAPI, PostgreSQL, Prisma, Docker, Google Cloud, AWS, Git" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Cnestjs%2Cexpress%2Creact%2Cnextjs%2Ctailwind%2Cpy%2Cfastapi%2Cpostgres%2Cprisma%2Cdocker%2Cgcp%2Caws%2Cgit&perline=16&theme=light">
   </picture>
 </p>
 
